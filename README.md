@@ -1,4 +1,4 @@
-# Mecanismo-Seguro-de-continuidad-Digital-y-gestion-Contributivaol
+# Mecanismo-Seguro-de-continuidad-Digital-y-gestion-Contributiva
 
 ### Plan de Negocio para Infraestructuras Públicas Europeas para la Gestión de Datos y Clouds
 
